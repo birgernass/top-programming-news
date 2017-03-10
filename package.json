@@ -1,0 +1,35 @@
+{
+  "name": "top-programming-news",
+  "version": "1.0.0",
+  "description": "Get the top entries from Hacker News and r/programming",
+  "main": "src/index.js",
+  "author": "birgernass <birgernass@posteo.net>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/birgernass/top-programming-news.git"
+  },
+  "keywords": [
+    "reddit",
+    "r/programming",
+    "hackernews",
+    "ycombinator",
+    "frontpage",
+    "news",
+    "aggregators",
+    "articles",
+    "stories",
+    "blogs",
+    "top",
+    "voted",
+    "api",
+    "wrapper",
+    "programming",
+    "coding",
+    "programmer",
+    "community"
+  ]
+}
