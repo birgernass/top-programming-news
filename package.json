@@ -1,6 +1,6 @@
 {
   "name": "top-programming-news",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Get the top entries from Hacker News and r/programming",
   "main": "src/index.js",
   "author": "birgernass <birgernass@posteo.net>",
